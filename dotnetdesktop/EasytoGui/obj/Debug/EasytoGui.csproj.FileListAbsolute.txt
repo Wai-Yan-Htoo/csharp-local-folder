@@ -1,0 +1,10 @@
+C:\src\csharp\c#\dotnetdesktop\EasytoGui\bin\Debug\EasytoGui.exe.config
+C:\src\csharp\c#\dotnetdesktop\EasytoGui\bin\Debug\EasytoGui.exe
+C:\src\csharp\c#\dotnetdesktop\EasytoGui\bin\Debug\EasytoGui.pdb
+C:\src\csharp\c#\dotnetdesktop\EasytoGui\obj\Debug\EasytoGui.csproj.AssemblyReference.cache
+C:\src\csharp\c#\dotnetdesktop\EasytoGui\obj\Debug\EasytoGui.Form1.resources
+C:\src\csharp\c#\dotnetdesktop\EasytoGui\obj\Debug\EasytoGui.Properties.Resources.resources
+C:\src\csharp\c#\dotnetdesktop\EasytoGui\obj\Debug\EasytoGui.csproj.GenerateResource.cache
+C:\src\csharp\c#\dotnetdesktop\EasytoGui\obj\Debug\EasytoGui.csproj.CoreCompileInputs.cache
+C:\src\csharp\c#\dotnetdesktop\EasytoGui\obj\Debug\EasytoGui.exe
+C:\src\csharp\c#\dotnetdesktop\EasytoGui\obj\Debug\EasytoGui.pdb
